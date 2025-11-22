@@ -1,9 +1,9 @@
 ---
-title: 테스트
-description: 테스트
+title: 공지사항
+description: 공지
 published: true
-date: 2025-11-22T13:34:05.635Z
-tags: 테스트
+date: 2025-11-22T13:49:49.309Z
+tags: 공지사항
 editor: markdown
 dateCreated: 2025-11-20T09:49:21.249Z
 ---
